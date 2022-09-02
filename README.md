@@ -6,7 +6,7 @@ Source of the input file: https://doi.org/10.1016/j.cell.2022.01.003
 
 ## Dependencies
 
-R version 4.2 or higher
+R version 4.2 or greater
 
 R libraries:
 
