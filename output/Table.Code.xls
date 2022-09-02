@@ -1,0 +1,98 @@
+cancer_type	oncotree_code	curated_subtype_display
+breast cancer	IDC	Breast Ductal HR+HER2-
+endometrial cancer	UEC	Uterine Endometrioid
+endometrial cancer	USC	Uterine Serous
+mesothelioma	PLEMESO	Pleural Mesothelioma
+bladder cancer	BLCA	Bladder Urothelial
+hepatobiliary cancer	HCC	Hepatocellular Carcinoma
+breast cancer	IDC	Breast Ductal HR+HER2+
+esophagogastric cancer	STAD	Stomach Adenocarinoma
+esophagogastric cancer	GEJ	Esophageal Adenocarinoma
+bladder cancer	UTUC	Upper Tract Urothelial
+ovarian cancer	HGSOC	Ovarian High-Grade Serous
+endometrial cancer	UEC	Uterine Hypermutated
+ovarian cancer	CCOV	Ovarian Clear Cell
+non-small cell lung cancer	LUAD	Lung Adenocarcinoma
+uterine sarcoma	ULMS	Sarcoma Leiomyo
+esophagogastric cancer	ESCA	Esophageal Adenocarinoma
+breast cancer	ILC	Breast Lobular HR+
+germ cell tumor	SEM	Testicular Seminoma
+small cell lung cancer	SCLC	Small Cell Lung Cancer
+hepatobiliary cancer	IHCH	Cholangio Intrahepatic
+colorectal cancer	COAD	Colorectal MSS
+germ cell tumor	BMGCT	Testicular Non-Seminoma
+gastrointestinal stromal tumor	GIST	Gastrointestinal Stromal
+pancreatic cancer	PAAD	Pancreatic Adenocarcinoma
+soft tissue sarcoma	DDLS	Sarcoma Lipo
+ovarian cancer	LGSOC	Ovarian Low-Grade Serous
+hepatobiliary cancer	EHCH	Cholangio Extrahepatic
+germ cell tumor	MGCT	Testicular Non-Seminoma
+thyroid cancer	THPD	Thyroid Poorly Differentiated
+breast cancer	IDC	Breast Ductal Triple Negative
+prostate cancer	PRAD	Prostate Adenocarcinoma
+salivary gland cancer	ACYC	Adenoid Cystic Carcinoma
+cervical cancer	CESC	Cervical Squamous Cell
+anal cancer	ANSC	Anal Squamous Cell
+non-small cell lung cancer	LUSC	Lung Squamous Cell Carcinoma
+skin cancer, non-melanoma	CSCC	Cutaneous Squamous Cell
+thyroid cancer	THPA	Thyroid Papillary
+renal cell carcinoma	CCRCC	Renal Clear Cell
+head and neck cancer	OCSC	Head and Neck Squamous
+non-small cell lung cancer	LUNE	Lung Neuroendocrine
+head and neck cancer	LXSC	Head and Neck Squamous
+head and neck cancer	OPHSC	Head and Neck Squamous
+germ cell tumor	TYST	Testicular Non-Seminoma
+breast cancer	IDC	Breast Ductal HR-HER2+
+mesothelioma	PLBMESO	Pleural Mesothelioma
+melanoma	MUP	Melanoma Cutaneous
+soft tissue sarcoma	MFH	Sarcoma UPS/MXF
+colorectal cancer	READ	Colorectal MSS
+soft tissue sarcoma	MFS	Sarcoma UPS/MXF
+melanoma	SKCM	Melanoma Cutaneous
+hepatobiliary cancer	GBC	Gallbladder Cancer
+endometrial cancer	UCS	Uterine Carcinosarcoma
+melanoma	UM	Melanoma Uveal
+colorectal cancer	COAD	Colorectal Hypermutated
+pancreatic cancer	PANET	Pancreatic Neuroendocrine
+appendiceal cancer	MAAP	Appendiceal Adenocarcinoma
+small bowel cancer	SBC	Small Bowel cancer
+melanoma	ARMM	Melanoma Mucosal
+gastrointestinal neuroendocrine tumor	SBWDNET	Gastrointestinal Neuroendocrine
+gastrointestinal neuroendocrine tumor	GINET	Gastrointestinal Neuroendocrine
+gastrointestinal neuroendocrine tumor	SWDNET	Gastrointestinal Neuroendocrine
+gastrointestinal neuroendocrine tumor	HGNEC	Gastrointestinal Neuroendocrine
+appendiceal cancer	APAD	Appendiceal Adenocarcinoma
+melanoma	VMM	Melanoma Mucosal
+colorectal cancer	COADREAD	Colorectal Hypermutated
+germ cell tumor	EMBCA	Testicular Non-Seminoma
+germ cell tumor	TT	Testicular Non-Seminoma
+soft tissue sarcoma	LMS	Sarcoma Leiomyo
+head and neck cancer	HNSCUP	Head and Neck Squamous
+head and neck cancer	SNSC	Head and Neck Squamous
+germ cell tumor	BEC	Testicular Non-Seminoma
+head and neck cancer	HPHSC	Head and Neck Squamous
+mesothelioma	PLMESO	Pleural Mesothelioma
+colorectal cancer	COADREAD	Colorectal MSS
+germ cell tumor	BYST	Testicular Non-Seminoma
+melanoma	URMM	Melanoma Mucosal
+melanoma	HNMUCM	Melanoma Mucosal
+head and neck cancer	HNSC	Head and Neck Squamous
+gastrointestinal neuroendocrine tumor	RWDNET	Gastrointestinal Neuroendocrine
+soft tissue sarcoma	WDLS	Sarcoma Lipo
+germ cell tumor	BCCA	Testicular Non-Seminoma
+gastrointestinal neuroendocrine tumor	AWDNET	Gastrointestinal Neuroendocrine
+germ cell tumor	TCCA	Testicular Non-Seminoma
+colorectal cancer	READ	Colorectal Hypermutated
+esophagogastric cancer	EGC	Esophageal Adenocarinoma
+melanoma	ESMM	Melanoma Mucosal
+germ cell tumor	GCTSTM	Testicular Non-Seminoma
+non-small cell lung cancer	LNET	Lung Neuroendocrine
+mesothelioma	PLSMESO	Pleural Mesothelioma
+hepatobiliary cancer	GBAD	Gallbladder Cancer
+soft tissue sarcoma	LIPO	Sarcoma Lipo
+small bowel cancer	DA	Small Bowel cancer
+small cell lung cancer	CSCLC	Small Cell Lung Cancer
+small bowel cancer	SIC	Small Bowel cancer
+germ cell tumor	VOEC	Testicular Non-Seminoma
+germ cell tumor	VMGCT	Testicular Non-Seminoma
+ovarian cancer	CCBOV	Ovarian Clear Cell
