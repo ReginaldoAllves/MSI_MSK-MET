@@ -133,7 +133,7 @@ table.desc = df %>% select(curated_organ_system,
                            msi_type,
                            tmb)
 
-# Rename variables
+# Renaming variables
 
 table.desc = table.desc %>% rename(system = 1,
                                    tumor_type = 2,
@@ -143,21 +143,21 @@ table.desc = table.desc %>% rename(system = 1,
                                    metastasis_burden = 6,
                                    msi_status=9)
 
-# Create variables with classification of MSI status
+# Creating variables with classification of MSI status
 
 table.desc = table.desc %>% mutate(msi_status = replace(msi_status, 
                                                         msi_score <= 10, "MSS"),
                                    msi_status = replace(msi_status, 
                                                         msi_score > 10, "MSI"))
 
-# Create variables with classification of TMB status
+# Creating variables with classification of TMB status
 
 table.desc = table.desc %>%
   mutate(tmb_status = tmb) %>%
   mutate(tmb_status = replace(tmb_status, tmb <= 10, "low"),
          tmb_status = replace(tmb_status, tmb > 10, "high"))
 
-# Creates a table with tumor code info for searching when needed
+# Creating a table with tumor code info for searching when needed
 
 table.code = df %>% select(cancer_type,
                            oncotree_code,
@@ -360,7 +360,7 @@ for(i in 1:length(tumors)){
   
   df.2$tmb.2 = as.factor(df.2$tmb.2)
   
-  # Create an output directory
+  # Creating an output directory
   
   directory = paste("Output/", tumors[i], sep = "")
   dir.create(directory)
@@ -397,7 +397,7 @@ for(i in 1:length(tumors)){
     print(ggdensity(df.2$meta_burden))
   dev.off()
 
-  ## Remove MSS Hypermutated tumors
+  ## Removing MSS Hypermutated tumors
   
   df.2 = filter(df.2, !(tmb >= 10 & msi == "MSS"))
   
