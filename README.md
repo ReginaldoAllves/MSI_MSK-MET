@@ -1,4 +1,4 @@
-# Metasistis phenotype according to the Mismatch repair status: a pancancer analysis from the MSK-MET study
+# Metasistis phenotype according to Mismatch repair status: a pancancer analysis from the MSK-MET study
 
 Objective: to evaluate the frequency of metastasis number and metastasis burden in tumors with and without microsatellite instability
 
