@@ -28,4 +28,4 @@ Files generated using the Pancancer.R script
 
 ## PanCancer.R
 
-Script used to generate the tables and graphs related to metastasis phenotype between MSI and MSS tumors from different tumor types
+Script used to generate the tables and graphs related to metastasis phenotype between MSI and MSS tumors from different tumor types.
