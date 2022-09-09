@@ -141,7 +141,7 @@ table.desc = table.desc %>% rename(system = 1,
                                    subtype = 4,
                                    number_metastasis = 5,
                                    metastasis_burden = 6,
-                                   msi_status=9)
+                                   msi_status=8)
 
 # Creating variables with classification of MSI status
 
